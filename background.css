@@ -1,0 +1,5 @@
+body{
+    background:linear-gradient(rgba(10,20,250,1), rgba(226,10,10,0.5)),url("./flower.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

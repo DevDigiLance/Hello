@@ -1,0 +1,23 @@
+<style>
+h1{ 
+    font-size: 60px;
+    text-align: left;
+    color: blue;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: red;   
+}
+h3{
+    font-size: 40px;
+    text-align: right;
+    color: yellowgreen;
+}
+p{
+
+    font-size:20px;
+    border: 1px solid green;
+    background-color: blueviolet;font-size: 60px;
+}
+</style>
